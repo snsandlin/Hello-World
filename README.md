@@ -6,3 +6,4 @@
 ## Technologies
 #### Language used: Python 
 #### Code Editor used: https://code.visualstudio.com/Download 
+#### Developer Platform used: https://github.com 
